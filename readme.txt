@@ -1,0 +1,2 @@
+Original version of the WW2 Polish Antistasi gamemode created by Barbaloni, this is an edited version and all credit for original files and code go to the Antistasi team.
+A3 - Armia Krajowa (Antistasi WWII) Steam page - https://steamcommunity.com/sharedfiles/filedetails/?id=1500572611&searchtext=antistasi+
